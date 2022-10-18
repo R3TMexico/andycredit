@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.top img {
+    width: 300px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.body {
+    background-color: rgb(235, 232, 232);
+    height: 100vh;
+    padding-top: 50px;
+}
